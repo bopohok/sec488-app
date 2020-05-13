@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "SEC 488-App Thereat Model",
+    "owner": "Me",
+    "description": "Flask application to view files in the browser"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Also me"
+  }
+}
